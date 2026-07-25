@@ -114,8 +114,8 @@ python postprocessing_vertebrae.py \
  Why this matters for BodyMaps
 
 Scaling annotation across large datasets means manual QA can't scale
-linearly with case count. Automated plausibility checks like these — even
-simple, population-relative ones — are the kind of lightweight signal that
+linearly with case count. Automated plausibility checks like these  even
+simple, population-relative ones  are the kind of lightweight signal that
 could help triage which cases need a human to look twice, without needing a
 full second model or an external atlas. That connects directly to the
 "Scaling Annotations" effort described in the program: catching likely
